@@ -1,0 +1,5 @@
+applications:
+- name: Chargify
+  random-route: true
+  memory: 256MB
+  health-check-type: process
